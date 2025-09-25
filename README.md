@@ -14,4 +14,9 @@ The goal is to support **environmental monitoring, agriculture, and urban planni
   - AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, SeaLake
 - Source: [EuroSAT Dataset](https://github.com/phelber/eurosat)
 
-Folder structure (after extraction):
+data/
+  EuroSAT_RGB/
+    AnnualCrop/
+    Forest/
+    ...
+    SeaLake/
