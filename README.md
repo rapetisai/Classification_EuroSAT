@@ -14,9 +14,9 @@ The goal is to support **environmental monitoring, agriculture, and urban planni
   - AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, SeaLake
 - Source: [EuroSAT Dataset](https://github.com/phelber/eurosat)
 
-data/
-  EuroSAT_RGB/
-    AnnualCrop/
-    Forest/
-    ...
-    SeaLake/
+## 🔮 Future Work
+
+Use pretrained CNNs (ResNet50, EfficientNet) with fine-tuning.
+Incorporate multispectral bands (NIR/SWIR) for agricultural class separation.
+Add attention modules or Vision Transformers for richer spatial context.
+Explore k-fold cross-validation for more reliable accuracy estimates.
